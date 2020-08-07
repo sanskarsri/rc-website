@@ -259,8 +259,8 @@ a{
     position: relative;
     top: 15vh;
     left: 6vw;
-    width:20vw;
-    height: 20vw;
+    width:15vw;
+    height: 15vw;
     transition: .3s ease;
 }
 #logo img:hover{
@@ -446,7 +446,14 @@ p{
   .developer ul li:hover{
       transform: translateY(10px);
   }
-
+#pic{
+    width:200px;
+    height: 200px;
+}
+#description{
+    font-size: 20px;
+    padding-bottom: 5px;
+}
 @media only screen and (max-width:400px)
 {
     
