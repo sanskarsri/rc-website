@@ -414,10 +414,10 @@ p{
     transition: 0.5s ease;
 }
 .card:hover .content-box h2{
-    padding: 20px 0 10px 15px;
+    padding: 10px 0 10px 15px;
 }
 .card:hover .content-box span{
-    padding: 20px 10px 0px 25px;
+    padding: 0px 10px 0px 25px;
     color: #fff;
 }
 .developer{
